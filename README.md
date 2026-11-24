@@ -9,3 +9,4 @@ Autor: Radosław Marek
 - [Zestaw 3](zestaw03/)
 - [Zestaw 4](zestaw04/)
 - [Zestaw 5](zestaw05/)
+- [Zestaw 6](zestaw06/)
